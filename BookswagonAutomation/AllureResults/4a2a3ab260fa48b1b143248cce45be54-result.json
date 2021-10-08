@@ -1,0 +1,67 @@
+{
+  "uuid": "12918d98-ea62-4a31-b266-8034b5107934-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlacingOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "PlacingOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.\r\n  ----> OpenQA.Selenium.ElementNotInteractableException : element not interactable\n  (Session info: chrome=94.0.4606.71)",
+    "trace": "   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.SendKeys(String )\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 193\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61\r\n--ElementNotInteractableException\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "PlacingOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.Reflection.TargetInvocationException : Exception has been thrown by the target of an invocation.\r\n  ----> OpenQA.Selenium.ElementNotInteractableException : element not interactable\n  (Session info: chrome=94.0.4606.71)",
+        "trace": "   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)\r\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)\r\n   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(MethodInfo targetMethod, Object[] args)\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at System.Reflection.DispatchProxyGenerator.Invoke(Object[] args)\r\n   at generatedProxy_1.SendKeys(String )\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 193\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61\r\n--ElementNotInteractableException\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.SendKeys(String text)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ec09023e94944679b1a7c8ad4cbab0bb-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633585899938,
+      "stop": 1633585945008
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633585899937,
+  "stop": 1633585945012
+}

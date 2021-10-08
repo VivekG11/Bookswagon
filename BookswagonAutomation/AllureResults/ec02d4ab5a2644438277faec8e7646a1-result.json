@@ -1,0 +1,67 @@
+{
+  "uuid": "74f80b06-6eeb-434f-8f46-20f46bd64315-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlacingOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "PlacingOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.IO.IOException : The process cannot access the file 'C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\DataResource\\ShippingAddress.xlsx' because it is being used by another process.",
+    "trace": "   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)\r\n   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)\r\n   at System.IO.File.Open(String path, FileMode mode, FileAccess access)\r\n   at BookswagonAutomation.AccessData.ExcelData.ExcelTable(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 15\r\n   at BookswagonAutomation.AccessData.ExcelData.PopulateInCollection(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 44\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 163\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "PlacingOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.IO.IOException : The process cannot access the file 'C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\DataResource\\ShippingAddress.xlsx' because it is being used by another process.",
+        "trace": "   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)\r\n   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)\r\n   at System.IO.File.Open(String path, FileMode mode, FileAccess access)\r\n   at BookswagonAutomation.AccessData.ExcelData.ExcelTable(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 15\r\n   at BookswagonAutomation.AccessData.ExcelData.PopulateInCollection(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 44\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 163\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "1acdf0273cc4423dab92d28abb0111f8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633592312442,
+      "stop": 1633592359221
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633592312441,
+  "stop": 1633592359225
+}

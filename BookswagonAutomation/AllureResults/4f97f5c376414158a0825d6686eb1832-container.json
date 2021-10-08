@@ -1,0 +1,28 @@
+{
+  "uuid": "6e9921cb-1bc4-474d-a413-1a8e5b508835-tc-0-1000",
+  "name": "BookswagonAutomation.BookswagonTests.Login_Using_InvalidCredentials",
+  "children": [
+    "2c5209a0-a4ac-4883-8152-14796bcdc777-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "NewRegistration",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1633602030575,
+      "stop": 1633602030575
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1633602005819,
+  "stop": 1633602030586
+}

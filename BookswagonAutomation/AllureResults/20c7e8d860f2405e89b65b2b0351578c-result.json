@@ -1,0 +1,67 @@
+{
+  "uuid": "cc64d81f-6a97-4596-bf20-5495e6eb5192-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlacingOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "PlacingOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at BookswagonAutomation.AccessData.ExcelData.PopulateInCollection(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 45\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 163\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "PlacingOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at BookswagonAutomation.AccessData.ExcelData.PopulateInCollection(String filename) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AccessData\\ExcelData.cs:line 45\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 163\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7af8ae64dc3947e9a39c544b9df79962-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633594079490,
+      "stop": 1633594127510
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633594079488,
+  "stop": 1633594127514
+}

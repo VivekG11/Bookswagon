@@ -1,0 +1,64 @@
+{
+  "uuid": "5434b8c9-b960-4a73-85a6-6ed5daecfa7b-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlacingOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "PlacingOrder",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "PlacingOrder"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "PlacingOrder",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "dd20fc50b78a4b788e5683dd6d6cdc8c-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633594256646,
+      "stop": 1633594325623
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633594256645,
+  "stop": 1633594325628
+}

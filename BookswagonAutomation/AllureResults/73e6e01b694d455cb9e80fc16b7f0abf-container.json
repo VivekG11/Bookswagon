@@ -1,0 +1,28 @@
+{
+  "uuid": "7433e741-0bce-47b7-b2a0-391d96f35a5d-tc-0-1000",
+  "name": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "children": [
+    "c567f5e6-b29f-488d-8fa1-e6fd49103cd7-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "NewRegistration",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1633597420404,
+      "stop": 1633597420404
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1633597374691,
+  "stop": 1633597420454
+}

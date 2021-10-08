@@ -1,0 +1,30 @@
+{
+  "uuid": "ec13c316-7e27-462c-b975-e8eb87cea334-tc-0-1000",
+  "name": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "children": [
+    "a78dc94c-6a2f-4d57-ab28-a6d71ace81d7-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "NewRegistration",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.WebDriverException : unknown error: net::ERR_INTERNET_DISCONNECTED\n  (Session info: chrome=94.0.4606.71)",
+        "trace": "   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)\r\n   at BookswagonAutomation.Base.BaseClass.NewRegistration() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Base\\BaseClass.cs:line 36"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1633581096597,
+      "stop": 1633581096597
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1633581086421,
+  "stop": 1633581096648
+}

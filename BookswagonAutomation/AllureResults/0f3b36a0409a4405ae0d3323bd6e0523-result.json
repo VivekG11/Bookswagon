@@ -1,0 +1,64 @@
+{
+  "uuid": "917e03a6-acd8-4c01-b537-2fa3d3185387-tr-0-1002",
+  "historyId": "BookswagonAutomation.BookswagonTests.SearchBook",
+  "fullName": "BookswagonAutomation.BookswagonTests.SearchBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "SearchBook"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "SearchBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "SearchBook"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SearchBook",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "68377f1ec7544606a3d3ef496f9d23ab-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633602405594,
+      "stop": 1633602445661
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633602405592,
+  "stop": 1633602445666
+}

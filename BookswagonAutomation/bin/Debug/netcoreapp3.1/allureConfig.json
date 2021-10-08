@@ -1,0 +1,23 @@
+﻿{
+    "allure": {
+        "directory": "C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\AllureResults\\",
+        "links": [ "", "{link}" ],
+        "brokenTestData": [
+            {
+                "name": "Ignored tests",
+                "matchedStatuses": [ "skipped" ]
+            },
+            {
+                "name": "Infrastructure problems",
+                "matchedStatuses": [ "broken", "failed" ],
+                "messageRegex": ".*OpenQA.Selenium.NoSuchWindowException: Unable to get browser.*"
+            },
+            {
+                "name": "TESTING THE FRAMEWORK",
+                "matchedStatuses": [ "failed" ],
+                "traceRegex": ".*AssertFailedException.*"
+            }
+        ]
+    }
+}
+

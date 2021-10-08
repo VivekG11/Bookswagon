@@ -1,0 +1,67 @@
+{
+  "uuid": "823923af-5f94-4842-9ccb-1b07a7f9e333-tr-0-1004",
+  "historyId": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "fullName": "BookswagonAutomation.BookswagonTests.PlacingOrder",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "PlacingOrder"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "PlacingOrder",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchFrameException : No frame element found with name or id cbox1633521259175",
+    "trace": "   at OpenQA.Selenium.Remote.RemoteTargetLocator.Frame(String frameName)\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 152\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "PlacingOrder",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchFrameException : No frame element found with name or id cbox1633521259175",
+        "trace": "   at OpenQA.Selenium.Remote.RemoteTargetLocator.Frame(String frameName)\r\n   at BookswagonAutomation.Actions.Action.Order(IWebDriver driver) in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\Actions\\Action.cs:line 152\r\n   at BookswagonAutomation.BookswagonTests.PlacingOrder() in C:\\Users\\vivek.g\\source\\repos\\BookswagonAutomation\\BookswagonAutomation\\BooksWagonTestCases.cs:line 61"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9068cad28def4e34b98d000e6df8708e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633540146952,
+      "stop": 1633540184615
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633540146950,
+  "stop": 1633540184619
+}

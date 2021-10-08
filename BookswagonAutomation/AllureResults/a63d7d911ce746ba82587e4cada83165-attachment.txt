@@ -1,0 +1,7 @@
+2021-10-06 23:25:25,868 INFO Initializing SetUp
+2021-10-06 23:25:25,876 INFO Disabling notifications
+2021-10-06 23:25:28,347 INFO navigating control to chrome browser
+2021-10-06 23:25:33,536 DEBUG Navigating to corresponding URL
+2021-10-06 23:25:33,561 INFO Accessing data from excel sheet
+2021-10-06 23:25:43,296 INFO User logged in successfully.....
+CDwindow-8B4168B826C727F6218A926DE023DA74

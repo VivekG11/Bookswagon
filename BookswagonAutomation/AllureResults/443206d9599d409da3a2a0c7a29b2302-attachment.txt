@@ -1,0 +1,5 @@
+2021-10-07 15:51:20,859 INFO Initializing SetUp
+2021-10-07 15:51:20,859 INFO Disabling notifications
+2021-10-07 15:51:24,622 INFO navigating control to chrome browser
+2021-10-07 15:51:30,556 DEBUG Navigating to corresponding URL
+2021-10-07 15:51:30,557 INFO Accessing data from excel sheet

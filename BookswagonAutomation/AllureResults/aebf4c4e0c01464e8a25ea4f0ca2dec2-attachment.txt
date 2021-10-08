@@ -1,0 +1,3 @@
+2021-10-07 15:55:42,357 INFO Initializing SetUp
+2021-10-07 15:55:42,369 INFO Disabling notifications
+2021-10-07 15:55:44,981 INFO navigating control to chrome browser

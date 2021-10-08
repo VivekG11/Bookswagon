@@ -1,0 +1,64 @@
+{
+  "uuid": "c843b759-d573-47f3-b85b-93fa6bb874d2-tr-0-1005",
+  "historyId": "BookswagonAutomation.BookswagonTests.Login",
+  "fullName": "BookswagonAutomation.BookswagonTests.Login",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "NXT-LT089"
+    },
+    {
+      "name": "testClass",
+      "value": "BookswagonAutomation.BookswagonTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "Login"
+    },
+    {
+      "name": "package",
+      "value": "BookswagonAutomation.BookswagonTests"
+    }
+  ],
+  "links": [],
+  "name": "Login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Login"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Login",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6aa13f3397984fdd9a1893ff1345fd17-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1633511948535,
+      "stop": 1633511974896
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1633511948534,
+  "stop": 1633511974901
+}

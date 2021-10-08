@@ -1,0 +1,444 @@
+2021-10-06 00:25:08,793 INFO Initializing SetUp
+2021-10-06 00:25:08,845 INFO Disabling notifications
+2021-10-06 00:25:11,313 INFO navigating control to chrome browser
+2021-10-06 00:25:17,551 DEBUG Navigating to corresponding URL
+2021-10-06 00:37:19,730 INFO Initializing SetUp
+2021-10-06 00:37:19,745 INFO Disabling notifications
+2021-10-06 00:37:22,014 INFO navigating control to chrome browser
+2021-10-06 00:37:28,663 DEBUG Navigating to corresponding URL
+2021-10-06 13:03:48,614 INFO Initializing SetUp
+2021-10-06 13:03:48,631 INFO Disabling notifications
+2021-10-06 13:03:54,264 INFO navigating control to chrome browser
+2021-10-06 13:04:03,741 DEBUG Navigating to corresponding URL
+2021-10-06 13:04:03,975 INFO Accessing data from excel sheet
+2021-10-06 13:04:17,028 INFO User logged in successfully.....
+2021-10-06 14:05:10,612 INFO Initializing SetUp
+2021-10-06 14:05:10,628 INFO Disabling notifications
+2021-10-06 14:05:12,921 INFO navigating control to chrome browser
+2021-10-06 14:05:22,133 DEBUG Navigating to corresponding URL
+2021-10-06 14:05:22,203 INFO Accessing data from excel sheet
+2021-10-06 14:05:31,645 DEBUG Login failed
+2021-10-06 14:05:31,645 INFO Login Successful......
+2021-10-06 14:45:39,156 INFO Initializing SetUp
+2021-10-06 14:45:39,166 INFO Disabling notifications
+2021-10-06 14:45:42,033 INFO navigating control to chrome browser
+2021-10-06 14:45:53,033 DEBUG Navigating to corresponding URL
+2021-10-06 14:45:53,107 INFO Accessing data from excel sheet
+2021-10-06 14:46:04,236 DEBUG Login failed
+2021-10-06 14:46:04,236 INFO Login Successful......
+2021-10-06 14:49:08,602 INFO Initializing SetUp
+2021-10-06 14:49:08,611 INFO Disabling notifications
+2021-10-06 14:49:11,204 INFO navigating control to chrome browser
+2021-10-06 14:49:23,876 DEBUG Navigating to corresponding URL
+2021-10-06 14:49:23,925 INFO Accessing data from excel sheet
+2021-10-06 14:49:34,870 DEBUG Login failed
+2021-10-06 14:49:34,870 INFO Login Successful......
+2021-10-06 15:56:18,576 INFO Initializing SetUp
+2021-10-06 15:56:18,587 INFO Disabling notifications
+2021-10-06 15:56:23,557 INFO navigating control to chrome browser
+2021-10-06 15:56:28,757 DEBUG Navigating to corresponding URL
+2021-10-06 15:56:28,880 INFO Accessing data from excel sheet
+2021-10-06 15:57:21,300 INFO Initializing SetUp
+2021-10-06 15:57:21,314 INFO Disabling notifications
+2021-10-06 15:57:23,661 INFO navigating control to chrome browser
+2021-10-06 15:57:29,999 DEBUG Navigating to corresponding URL
+2021-10-06 15:57:30,040 INFO Accessing data from excel sheet
+2021-10-06 15:57:40,988 INFO User logged in successfully.....
+2021-10-06 16:23:12,597 INFO Initializing SetUp
+2021-10-06 16:23:12,613 INFO Disabling notifications
+2021-10-06 16:23:15,443 INFO navigating control to chrome browser
+2021-10-06 16:23:21,441 DEBUG Navigating to corresponding URL
+2021-10-06 16:23:21,526 INFO Accessing data from excel sheet
+2021-10-06 16:23:32,353 INFO User logged in successfully.....
+2021-10-06 22:39:07,059 INFO Initializing SetUp
+2021-10-06 22:39:07,067 INFO Disabling notifications
+2021-10-06 22:39:11,817 INFO navigating control to chrome browser
+2021-10-06 22:39:17,028 DEBUG Navigating to corresponding URL
+2021-10-06 22:39:17,142 INFO Accessing data from excel sheet
+2021-10-06 22:39:27,641 INFO User logged in successfully.....
+2021-10-06 22:40:27,332 INFO Initializing SetUp
+2021-10-06 22:40:27,346 INFO Disabling notifications
+2021-10-06 22:40:29,725 INFO navigating control to chrome browser
+2021-10-06 22:40:34,132 DEBUG Navigating to corresponding URL
+2021-10-06 22:40:34,155 INFO Accessing data from excel sheet
+2021-10-06 22:40:43,600 INFO User logged in successfully.....
+2021-10-06 22:53:20,820 INFO Initializing SetUp
+2021-10-06 22:53:20,828 INFO Disabling notifications
+2021-10-06 22:53:41,811 INFO Initializing SetUp
+2021-10-06 22:53:41,819 INFO Disabling notifications
+2021-10-06 22:53:44,284 INFO navigating control to chrome browser
+2021-10-06 22:53:49,238 DEBUG Navigating to corresponding URL
+2021-10-06 22:53:49,300 INFO Accessing data from excel sheet
+2021-10-06 22:53:58,906 INFO User logged in successfully.....
+2021-10-06 23:00:22,572 INFO Initializing SetUp
+2021-10-06 23:00:22,580 INFO Disabling notifications
+2021-10-06 23:00:25,035 INFO navigating control to chrome browser
+2021-10-06 23:00:30,471 DEBUG Navigating to corresponding URL
+2021-10-06 23:00:30,532 INFO Accessing data from excel sheet
+2021-10-06 23:00:39,812 INFO User logged in successfully.....
+2021-10-06 23:02:40,033 INFO Initializing SetUp
+2021-10-06 23:02:40,044 INFO Disabling notifications
+2021-10-06 23:02:42,274 INFO navigating control to chrome browser
+2021-10-06 23:02:47,063 DEBUG Navigating to corresponding URL
+2021-10-06 23:02:47,121 INFO Accessing data from excel sheet
+2021-10-06 23:02:57,706 INFO User logged in successfully.....
+2021-10-06 23:24:15,734 INFO Initializing SetUp
+2021-10-06 23:24:15,747 INFO Disabling notifications
+2021-10-06 23:24:18,073 INFO navigating control to chrome browser
+2021-10-06 23:24:22,964 DEBUG Navigating to corresponding URL
+2021-10-06 23:24:23,104 INFO Accessing data from excel sheet
+2021-10-06 23:24:32,373 INFO User logged in successfully.....
+2021-10-06 23:25:25,868 INFO Initializing SetUp
+2021-10-06 23:25:25,876 INFO Disabling notifications
+2021-10-06 23:25:28,347 INFO navigating control to chrome browser
+2021-10-06 23:25:33,536 DEBUG Navigating to corresponding URL
+2021-10-06 23:25:33,561 INFO Accessing data from excel sheet
+2021-10-06 23:25:43,296 INFO User logged in successfully.....
+2021-10-06 23:26:18,533 INFO Initializing SetUp
+2021-10-06 23:26:18,549 INFO Disabling notifications
+2021-10-06 23:26:20,767 INFO navigating control to chrome browser
+2021-10-06 23:26:25,951 DEBUG Navigating to corresponding URL
+2021-10-06 23:26:25,986 INFO Accessing data from excel sheet
+2021-10-06 23:26:35,257 INFO User logged in successfully.....
+2021-10-06 23:29:36,795 INFO Initializing SetUp
+2021-10-06 23:29:36,803 INFO Disabling notifications
+2021-10-06 23:29:39,095 INFO navigating control to chrome browser
+2021-10-06 23:29:44,487 DEBUG Navigating to corresponding URL
+2021-10-06 23:29:44,555 INFO Accessing data from excel sheet
+2021-10-06 23:29:54,643 INFO User logged in successfully.....
+2021-10-06 23:34:57,998 INFO Initializing SetUp
+2021-10-06 23:34:58,007 INFO Disabling notifications
+2021-10-06 23:35:00,507 INFO navigating control to chrome browser
+2021-10-06 23:35:04,814 DEBUG Navigating to corresponding URL
+2021-10-06 23:35:04,857 INFO Accessing data from excel sheet
+2021-10-06 23:35:14,402 INFO User logged in successfully.....
+2021-10-06 23:37:20,837 INFO Initializing SetUp
+2021-10-06 23:37:20,846 INFO Disabling notifications
+2021-10-06 23:37:23,016 INFO navigating control to chrome browser
+2021-10-06 23:37:27,948 DEBUG Navigating to corresponding URL
+2021-10-06 23:37:27,991 INFO Accessing data from excel sheet
+2021-10-06 23:37:38,263 INFO User logged in successfully.....
+2021-10-07 09:39:54,719 INFO Initializing SetUp
+2021-10-07 09:39:54,730 INFO Disabling notifications
+2021-10-07 09:39:56,870 INFO navigating control to chrome browser
+2021-10-07 09:40:01,967 DEBUG Navigating to corresponding URL
+2021-10-07 09:40:02,041 INFO Accessing data from excel sheet
+2021-10-07 09:40:11,028 INFO User logged in successfully.....
+2021-10-07 10:01:26,534 INFO Initializing SetUp
+2021-10-07 10:01:26,546 INFO Disabling notifications
+2021-10-07 10:01:33,937 INFO navigating control to chrome browser
+2021-10-07 10:04:11,587 INFO Initializing SetUp
+2021-10-07 10:04:11,597 INFO Disabling notifications
+2021-10-07 10:04:13,762 INFO navigating control to chrome browser
+2021-10-07 10:04:21,094 DEBUG Navigating to corresponding URL
+2021-10-07 10:04:21,228 INFO Accessing data from excel sheet
+2021-10-07 10:04:40,975 INFO Initializing SetUp
+2021-10-07 10:04:40,986 INFO Disabling notifications
+2021-10-07 10:04:42,977 INFO navigating control to chrome browser
+2021-10-07 10:04:47,885 DEBUG Navigating to corresponding URL
+2021-10-07 10:04:47,920 INFO Accessing data from excel sheet
+2021-10-07 10:04:57,456 INFO User logged in successfully.....
+2021-10-07 10:55:18,304 INFO Initializing SetUp
+2021-10-07 10:55:18,315 INFO Disabling notifications
+2021-10-07 10:55:20,443 INFO navigating control to chrome browser
+2021-10-07 10:55:26,165 DEBUG Navigating to corresponding URL
+2021-10-07 10:55:26,213 INFO Accessing data from excel sheet
+2021-10-07 10:55:35,678 INFO User logged in successfully.....
+2021-10-07 11:13:53,169 INFO Initializing SetUp
+2021-10-07 11:13:53,185 INFO Disabling notifications
+2021-10-07 11:13:55,694 INFO navigating control to chrome browser
+2021-10-07 11:14:00,004 DEBUG Navigating to corresponding URL
+2021-10-07 11:14:00,080 INFO Accessing data from excel sheet
+2021-10-07 11:14:10,018 INFO User logged in successfully.....
+2021-10-07 11:15:21,158 INFO Initializing SetUp
+2021-10-07 11:15:21,166 INFO Disabling notifications
+2021-10-07 11:15:23,241 INFO navigating control to chrome browser
+2021-10-07 11:15:27,682 DEBUG Navigating to corresponding URL
+2021-10-07 11:15:27,732 INFO Accessing data from excel sheet
+2021-10-07 11:15:37,771 INFO User logged in successfully.....
+2021-10-07 11:21:39,990 INFO Initializing SetUp
+2021-10-07 11:21:40,000 INFO Disabling notifications
+2021-10-07 11:21:42,185 INFO navigating control to chrome browser
+2021-10-07 11:21:46,177 DEBUG Navigating to corresponding URL
+2021-10-07 11:21:46,215 INFO Accessing data from excel sheet
+2021-10-07 11:21:55,940 INFO User logged in successfully.....
+2021-10-07 11:25:27,070 INFO Initializing SetUp
+2021-10-07 11:25:27,086 INFO Disabling notifications
+2021-10-07 11:25:29,157 INFO navigating control to chrome browser
+2021-10-07 11:25:33,046 DEBUG Navigating to corresponding URL
+2021-10-07 11:25:33,076 INFO Accessing data from excel sheet
+2021-10-07 11:25:42,170 INFO User logged in successfully.....
+2021-10-07 12:18:37,634 INFO Initializing SetUp
+2021-10-07 12:18:37,643 INFO Disabling notifications
+2021-10-07 12:18:39,756 INFO navigating control to chrome browser
+2021-10-07 12:18:44,439 DEBUG Navigating to corresponding URL
+2021-10-07 12:18:44,473 INFO Accessing data from excel sheet
+2021-10-07 12:18:53,337 INFO User logged in successfully.....
+2021-10-07 13:02:52,130 INFO Initializing SetUp
+2021-10-07 13:02:52,143 INFO Disabling notifications
+2021-10-07 13:02:56,515 INFO navigating control to chrome browser
+2021-10-07 13:03:41,251 INFO Initializing SetUp
+2021-10-07 13:03:41,264 INFO Disabling notifications
+2021-10-07 13:03:43,433 INFO navigating control to chrome browser
+2021-10-07 13:03:47,964 DEBUG Navigating to corresponding URL
+2021-10-07 13:03:48,143 INFO Accessing data from excel sheet
+2021-10-07 13:03:59,675 INFO User logged in successfully.....
+2021-10-07 13:07:33,608 INFO Initializing SetUp
+2021-10-07 13:07:33,619 INFO Disabling notifications
+2021-10-07 13:07:35,747 INFO navigating control to chrome browser
+2021-10-07 13:07:40,044 DEBUG Navigating to corresponding URL
+2021-10-07 13:07:40,090 INFO Accessing data from excel sheet
+2021-10-07 13:07:49,050 INFO User logged in successfully.....
+2021-10-07 13:08:32,497 INFO Initializing SetUp
+2021-10-07 13:08:32,508 INFO Disabling notifications
+2021-10-07 13:08:34,737 INFO navigating control to chrome browser
+2021-10-07 13:08:39,590 DEBUG Navigating to corresponding URL
+2021-10-07 13:08:39,625 INFO Accessing data from excel sheet
+2021-10-07 13:08:49,151 INFO User logged in successfully.....
+2021-10-07 13:09:44,210 INFO Initializing SetUp
+2021-10-07 13:09:44,220 INFO Disabling notifications
+2021-10-07 13:09:46,356 INFO navigating control to chrome browser
+2021-10-07 13:09:50,614 DEBUG Navigating to corresponding URL
+2021-10-07 13:09:50,646 INFO Accessing data from excel sheet
+2021-10-07 13:09:59,695 INFO User logged in successfully.....
+2021-10-07 13:18:09,571 INFO Initializing SetUp
+2021-10-07 13:18:09,584 INFO Disabling notifications
+2021-10-07 13:18:12,149 INFO navigating control to chrome browser
+2021-10-07 13:18:16,614 DEBUG Navigating to corresponding URL
+2021-10-07 13:18:16,649 INFO Accessing data from excel sheet
+2021-10-07 13:18:25,706 INFO User logged in successfully.....
+2021-10-07 13:22:20,152 INFO Initializing SetUp
+2021-10-07 13:22:20,164 INFO Disabling notifications
+2021-10-07 13:22:22,801 INFO navigating control to chrome browser
+2021-10-07 13:22:28,247 DEBUG Navigating to corresponding URL
+2021-10-07 13:22:28,271 INFO Accessing data from excel sheet
+2021-10-07 13:22:38,166 INFO User logged in successfully.....
+2021-10-07 13:26:01,914 INFO Initializing SetUp
+2021-10-07 13:26:01,924 INFO Disabling notifications
+2021-10-07 13:26:04,481 INFO navigating control to chrome browser
+2021-10-07 13:26:09,249 DEBUG Navigating to corresponding URL
+2021-10-07 13:26:09,326 INFO Accessing data from excel sheet
+2021-10-07 13:26:17,840 INFO User logged in successfully.....
+2021-10-07 13:34:36,573 INFO Initializing SetUp
+2021-10-07 13:34:36,588 INFO Disabling notifications
+2021-10-07 13:34:39,423 INFO navigating control to chrome browser
+2021-10-07 13:34:44,678 DEBUG Navigating to corresponding URL
+2021-10-07 13:34:44,711 INFO Accessing data from excel sheet
+2021-10-07 13:34:55,380 INFO User logged in successfully.....
+2021-10-07 13:37:59,570 INFO Initializing SetUp
+2021-10-07 13:37:59,585 INFO Disabling notifications
+2021-10-07 13:38:02,142 INFO navigating control to chrome browser
+2021-10-07 13:38:07,304 DEBUG Navigating to corresponding URL
+2021-10-07 13:38:07,351 INFO Accessing data from excel sheet
+2021-10-07 13:38:16,825 INFO User logged in successfully.....
+2021-10-07 13:40:56,712 INFO Initializing SetUp
+2021-10-07 13:40:56,724 INFO Disabling notifications
+2021-10-07 13:40:59,241 INFO navigating control to chrome browser
+2021-10-07 13:41:04,341 DEBUG Navigating to corresponding URL
+2021-10-07 13:41:04,390 INFO Accessing data from excel sheet
+2021-10-07 13:41:13,612 INFO User logged in successfully.....
+2021-10-07 13:49:01,587 INFO Initializing SetUp
+2021-10-07 13:49:01,608 INFO Disabling notifications
+2021-10-07 13:49:04,553 INFO navigating control to chrome browser
+2021-10-07 13:49:10,303 DEBUG Navigating to corresponding URL
+2021-10-07 13:49:10,382 INFO Accessing data from excel sheet
+2021-10-07 13:49:19,894 INFO User logged in successfully.....
+2021-10-07 13:51:41,024 INFO Initializing SetUp
+2021-10-07 13:51:41,051 INFO Disabling notifications
+2021-10-07 13:51:44,473 INFO navigating control to chrome browser
+2021-10-07 13:51:49,922 DEBUG Navigating to corresponding URL
+2021-10-07 13:51:49,948 INFO Accessing data from excel sheet
+2021-10-07 13:52:00,762 INFO User logged in successfully.....
+2021-10-07 13:54:32,757 INFO Initializing SetUp
+2021-10-07 13:54:32,766 INFO Disabling notifications
+2021-10-07 13:54:36,534 INFO navigating control to chrome browser
+2021-10-07 13:54:40,978 DEBUG Navigating to corresponding URL
+2021-10-07 13:54:41,095 INFO Accessing data from excel sheet
+2021-10-07 13:54:50,440 INFO User logged in successfully.....
+2021-10-07 14:15:34,230 INFO Initializing SetUp
+2021-10-07 14:15:34,240 INFO Disabling notifications
+2021-10-07 14:15:36,779 INFO navigating control to chrome browser
+2021-10-07 14:15:41,305 DEBUG Navigating to corresponding URL
+2021-10-07 14:15:41,364 INFO Accessing data from excel sheet
+2021-10-07 14:15:50,709 INFO User logged in successfully.....
+2021-10-07 14:24:05,239 INFO Initializing SetUp
+2021-10-07 14:24:05,253 INFO Disabling notifications
+2021-10-07 14:24:07,510 INFO navigating control to chrome browser
+2021-10-07 14:24:11,967 DEBUG Navigating to corresponding URL
+2021-10-07 14:24:11,995 INFO Accessing data from excel sheet
+2021-10-07 14:24:21,300 INFO User logged in successfully.....
+2021-10-07 14:28:48,236 INFO Initializing SetUp
+2021-10-07 14:28:48,252 INFO Disabling notifications
+2021-10-07 14:28:50,439 INFO navigating control to chrome browser
+2021-10-07 14:28:56,222 DEBUG Navigating to corresponding URL
+2021-10-07 14:28:56,250 INFO Accessing data from excel sheet
+2021-10-07 14:29:05,533 INFO User logged in successfully.....
+2021-10-07 14:31:04,063 INFO Initializing SetUp
+2021-10-07 14:31:04,078 INFO Disabling notifications
+2021-10-07 14:31:06,305 INFO navigating control to chrome browser
+2021-10-07 14:31:11,788 DEBUG Navigating to corresponding URL
+2021-10-07 14:31:11,845 INFO Accessing data from excel sheet
+2021-10-07 14:31:21,276 INFO User logged in successfully.....
+2021-10-07 14:32:54,741 INFO Initializing SetUp
+2021-10-07 14:32:54,749 INFO Disabling notifications
+2021-10-07 14:32:56,749 INFO navigating control to chrome browser
+2021-10-07 14:33:03,810 DEBUG Navigating to corresponding URL
+2021-10-07 14:33:03,850 INFO Accessing data from excel sheet
+2021-10-07 14:33:13,769 INFO User logged in successfully.....
+2021-10-07 14:55:58,898 INFO Initializing SetUp
+2021-10-07 14:55:58,908 INFO Disabling notifications
+2021-10-07 14:56:01,144 INFO navigating control to chrome browser
+2021-10-07 14:56:06,040 DEBUG Navigating to corresponding URL
+2021-10-07 14:56:06,095 INFO Accessing data from excel sheet
+2021-10-07 14:56:16,011 INFO User logged in successfully.....
+2021-10-07 15:17:02,054 INFO Initializing SetUp
+2021-10-07 15:17:02,066 INFO Disabling notifications
+2021-10-07 15:17:04,517 INFO navigating control to chrome browser
+2021-10-07 15:17:09,219 DEBUG Navigating to corresponding URL
+2021-10-07 15:17:09,255 INFO Accessing data from excel sheet
+2021-10-07 15:17:18,127 INFO User logged in successfully.....
+2021-10-07 15:26:07,092 INFO Initializing SetUp
+2021-10-07 15:26:07,104 INFO Disabling notifications
+2021-10-07 15:26:09,723 INFO navigating control to chrome browser
+2021-10-07 15:26:14,664 DEBUG Navigating to corresponding URL
+2021-10-07 15:26:14,728 INFO Accessing data from excel sheet
+2021-10-07 15:26:24,725 INFO User logged in successfully.....
+2021-10-07 15:28:10,152 INFO Initializing SetUp
+2021-10-07 15:28:10,161 INFO Disabling notifications
+2021-10-07 15:28:12,313 INFO navigating control to chrome browser
+2021-10-07 15:28:16,705 DEBUG Navigating to corresponding URL
+2021-10-07 15:28:16,735 INFO Accessing data from excel sheet
+2021-10-07 15:28:26,514 INFO User logged in successfully.....
+2021-10-07 15:31:44,425 INFO Initializing SetUp
+2021-10-07 15:31:44,433 INFO Disabling notifications
+2021-10-07 15:31:46,869 INFO navigating control to chrome browser
+2021-10-07 15:31:50,911 DEBUG Navigating to corresponding URL
+2021-10-07 15:31:50,943 INFO Accessing data from excel sheet
+2021-10-07 15:32:00,324 INFO User logged in successfully.....
+2021-10-07 15:32:37,513 INFO Initializing SetUp
+2021-10-07 15:32:37,521 INFO Disabling notifications
+2021-10-07 15:32:39,825 INFO navigating control to chrome browser
+2021-10-07 15:32:44,405 DEBUG Navigating to corresponding URL
+2021-10-07 15:32:44,431 INFO Accessing data from excel sheet
+2021-10-07 15:32:54,088 INFO User logged in successfully.....
+2021-10-07 15:49:57,468 INFO Initializing SetUp
+2021-10-07 15:49:57,483 INFO Disabling notifications
+2021-10-07 15:50:00,023 INFO navigating control to chrome browser
+2021-10-07 15:50:05,478 DEBUG Navigating to corresponding URL
+2021-10-07 15:50:05,836 INFO Initializing SetUp
+2021-10-07 15:50:05,837 INFO Disabling notifications
+2021-10-07 15:50:08,445 INFO navigating control to chrome browser
+2021-10-07 15:50:13,226 DEBUG Navigating to corresponding URL
+2021-10-07 15:50:13,231 INFO Accessing data from excel sheet
+2021-10-07 15:50:22,538 DEBUG Login failed
+2021-10-07 15:50:22,539 INFO Login Successful......
+2021-10-07 15:50:30,618 INFO Initializing SetUp
+2021-10-07 15:50:30,618 INFO Disabling notifications
+2021-10-07 15:50:33,264 INFO navigating control to chrome browser
+2021-10-07 15:50:40,388 DEBUG Navigating to corresponding URL
+2021-10-07 15:50:40,390 INFO Accessing data from excel sheet
+2021-10-07 15:50:49,254 INFO Initializing SetUp
+2021-10-07 15:50:49,254 INFO Disabling notifications
+2021-10-07 15:50:52,029 INFO navigating control to chrome browser
+2021-10-07 15:50:57,348 DEBUG Navigating to corresponding URL
+2021-10-07 15:50:57,352 INFO Accessing data from excel sheet
+2021-10-07 15:51:05,284 INFO Initializing SetUp
+2021-10-07 15:51:05,284 INFO Disabling notifications
+2021-10-07 15:51:08,319 INFO navigating control to chrome browser
+2021-10-07 15:51:12,797 DEBUG Navigating to corresponding URL
+2021-10-07 15:51:12,799 INFO Accessing data from excel sheet
+2021-10-07 15:51:20,859 INFO Initializing SetUp
+2021-10-07 15:51:20,859 INFO Disabling notifications
+2021-10-07 15:51:24,622 INFO navigating control to chrome browser
+2021-10-07 15:51:30,556 DEBUG Navigating to corresponding URL
+2021-10-07 15:51:30,557 INFO Accessing data from excel sheet
+2021-10-07 15:55:42,357 INFO Initializing SetUp
+2021-10-07 15:55:42,369 INFO Disabling notifications
+2021-10-07 15:55:44,981 INFO navigating control to chrome browser
+2021-10-07 15:56:45,647 INFO Initializing SetUp
+2021-10-07 15:56:45,661 INFO Disabling notifications
+2021-10-07 15:56:48,099 INFO navigating control to chrome browser
+2021-10-07 15:56:57,206 DEBUG Navigating to corresponding URL
+2021-10-07 15:56:57,270 INFO Accessing data from excel sheet
+2021-10-07 15:57:08,009 INFO User logged in successfully.....
+2021-10-07 15:57:56,957 INFO Initializing SetUp
+2021-10-07 15:57:56,969 INFO Disabling notifications
+2021-10-07 15:57:59,410 INFO navigating control to chrome browser
+2021-10-07 15:58:11,670 DEBUG Navigating to corresponding URL
+2021-10-07 15:58:11,704 INFO Accessing data from excel sheet
+2021-10-07 15:58:22,543 INFO User logged in successfully.....
+2021-10-07 15:58:36,203 INFO Initializing SetUp
+2021-10-07 15:58:36,204 INFO Disabling notifications
+2021-10-07 15:58:38,422 INFO navigating control to chrome browser
+2021-10-07 15:58:44,198 DEBUG Navigating to corresponding URL
+2021-10-07 15:58:44,202 INFO Accessing data from excel sheet
+2021-10-07 15:58:52,633 DEBUG Login failed
+2021-10-07 15:58:52,633 INFO Login Successful......
+2021-10-07 15:59:14,192 INFO Initializing SetUp
+2021-10-07 15:59:14,202 INFO Disabling notifications
+2021-10-07 15:59:16,385 INFO navigating control to chrome browser
+2021-10-07 15:59:27,369 DEBUG Navigating to corresponding URL
+2021-10-07 15:59:27,397 INFO Accessing data from excel sheet
+2021-10-07 15:59:36,932 INFO User logged in successfully.....
+2021-10-07 15:59:57,963 INFO Initializing SetUp
+2021-10-07 15:59:57,976 INFO Disabling notifications
+2021-10-07 16:00:00,383 INFO navigating control to chrome browser
+2021-10-07 16:00:05,881 DEBUG Navigating to corresponding URL
+2021-10-07 16:00:05,916 INFO Accessing data from excel sheet
+2021-10-07 16:00:17,080 INFO User logged in successfully.....
+2021-10-07 16:02:33,503 INFO Initializing SetUp
+2021-10-07 16:02:33,512 INFO Disabling notifications
+2021-10-07 16:02:35,693 INFO navigating control to chrome browser
+2021-10-07 16:02:47,482 DEBUG Navigating to corresponding URL
+2021-10-07 16:02:47,530 INFO Accessing data from excel sheet
+2021-10-07 16:02:58,529 INFO User logged in successfully.....
+2021-10-07 16:17:28,672 INFO Initializing SetUp
+2021-10-07 16:17:28,684 INFO Disabling notifications
+2021-10-07 16:17:30,841 INFO navigating control to chrome browser
+2021-10-07 16:17:36,258 DEBUG Navigating to corresponding URL
+2021-10-07 16:17:36,297 INFO Accessing data from excel sheet
+2021-10-07 16:17:46,317 INFO User logged in successfully.....
+2021-10-07 22:52:03,357 INFO Initializing SetUp
+2021-10-07 22:52:03,378 INFO Disabling notifications
+2021-10-07 22:52:05,581 INFO navigating control to chrome browser
+2021-10-07 22:52:11,013 DEBUG Navigating to corresponding URL
+2021-10-07 22:52:11,066 INFO Accessing data from excel sheet
+2021-10-07 22:52:20,916 INFO User Registered  successfully.....
+2021-10-07 22:52:26,505 INFO Initializing SetUp
+2021-10-07 22:52:26,506 INFO Disabling notifications
+2021-10-07 22:52:28,433 INFO navigating control to chrome browser
+2021-10-07 22:52:32,842 DEBUG Navigating to corresponding URL
+2021-10-07 22:52:32,845 INFO Accessing data from excel sheet
+2021-10-07 22:52:40,735 INFO Initializing SetUp
+2021-10-07 22:52:40,735 INFO Disabling notifications
+2021-10-07 22:52:42,696 INFO navigating control to chrome browser
+2021-10-07 22:52:46,975 DEBUG Navigating to corresponding URL
+2021-10-07 22:52:46,980 INFO Accessing data from excel sheet
+2021-10-07 22:52:54,762 INFO Initializing SetUp
+2021-10-07 22:52:54,762 INFO Disabling notifications
+2021-10-07 22:52:57,168 INFO navigating control to chrome browser
+2021-10-07 22:53:01,394 DEBUG Navigating to corresponding URL
+2021-10-07 22:53:01,397 INFO Accessing data from excel sheet
+2021-10-07 22:53:09,436 INFO Initializing SetUp
+2021-10-07 22:53:09,437 INFO Disabling notifications
+2021-10-07 22:53:11,855 INFO navigating control to chrome browser
+2021-10-07 22:53:16,484 DEBUG Navigating to corresponding URL
+2021-10-07 22:53:16,487 INFO Accessing data from excel sheet
+2021-10-07 22:53:24,656 INFO Initializing SetUp
+2021-10-07 22:53:24,656 INFO Disabling notifications
+2021-10-07 22:53:26,803 INFO navigating control to chrome browser
+2021-10-07 22:53:32,559 DEBUG Navigating to corresponding URL
+2021-10-07 22:53:32,561 INFO Accessing data from excel sheet
+2021-10-07 22:53:41,484 DEBUG Login failed
+2021-10-07 22:53:41,484 INFO Login Successful......
+2021-10-07 22:53:41,853 INFO Initializing SetUp
+2021-10-07 22:53:41,853 INFO Disabling notifications
+2021-10-07 22:53:43,981 INFO navigating control to chrome browser
+2021-10-07 22:53:48,104 DEBUG Navigating to corresponding URL
+2021-10-07 22:53:48,106 INFO Accessing data from excel sheet
+2021-10-08 10:40:44,350 INFO Initializing SetUp
+2021-10-08 10:40:44,367 INFO Disabling notifications
+2021-10-08 10:40:49,955 INFO navigating control to chrome browser
+2021-10-08 10:40:54,882 DEBUG Navigating to corresponding URL
+2021-10-08 10:40:55,068 INFO Accessing data from excel sheet
+2021-10-08 10:41:04,829 INFO User logged in successfully.....
